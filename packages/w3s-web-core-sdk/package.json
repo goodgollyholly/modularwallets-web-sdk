@@ -26,7 +26,7 @@
     "uuid": "^11.0.3",
     "viem": "^2.21.27",
     "web3": "^4.13.0",
-    "webauthn-p256": "0.0.5"
+    "webauthn-p256": "0.0.10"
   },
   "devDependencies": {
     "@templates/eslint-config": "workspace:*",
